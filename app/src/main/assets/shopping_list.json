@@ -1,0 +1,208 @@
+{
+    "categories": [
+        {
+            "name": "Ingredientes Importados",
+            "items": [
+                "60 g. de Cacao soluble",
+                "330 g. de Cereales rellenos de Leche Hacendado",
+                "80 g. de Queso Fresco de Burgos Hacendado 0%",
+                "20 g. de Salsa de Soja Gluten Free Hacendado"
+            ]
+        },
+        {
+            "name": "Aceites y Grasas",
+            "items": [
+                "40 g. de Aceite de oliva",
+                "50 g. de Aceitunas negras Hacendado"
+            ]
+        },
+        {
+            "name": "Alimentos de alto valor calórico",
+            "items": [
+                "10 g. de Mantequilla"
+            ]
+        },
+        {
+            "name": "Arroces y Sémolas",
+            "items": [
+                "90 g. de Arroz",
+                "200 g. de Vasito arroz integral Brillante"
+            ]
+        },
+        {
+            "name": "Bebidas",
+            "items": [
+                "200 g. de Bebida de coco"
+            ]
+        },
+        {
+            "name": "Bebidas sin alcohol",
+            "items": [
+                "50 g. de Agua"
+            ]
+        },
+        {
+            "name": "Buey / ternera y derivados",
+            "items": [
+                "480 g. de Ternera - magra"
+            ]
+        },
+        {
+            "name": "Carnes Blancas",
+            "items": [
+                "370 g. de Pavo, pechuga",
+                "80 g. de Pechuga de Pollo Hacendado",
+                "270 g. de Pollo - pechuga"
+            ]
+        },
+        {
+            "name": "Cereales",
+            "items": [
+                "80 g. de Caldo vegetal",
+                "10 g. de Copos de Avena Hacendado",
+                "350 g. de Copos de Maíz Nicoli Hacendado",
+                "50 g. de Corn Flakes Hacendado",
+                "90 g. de Quinoa Hacendado",
+                "140 g. de Weetabix cereales"
+            ]
+        },
+        {
+            "name": "Embutidos",
+            "items": [
+                "150 g. de Jamon de Cebo Iberico Hacendado",
+                "70 g. de Jamón serrano",
+                "60 g. de Lomo Embuchado Hacendado"
+            ]
+        },
+        {
+            "name": "Especies, Aromas y Preparados",
+            "items": [
+                "30 g. de Ajo"
+            ]
+        },
+        {
+            "name": "Fruta Fresca",
+            "items": [
+                "110 g. de Aguacate",
+                "300 g. de Fresa",
+                "30 g. de Limón",
+                "60 g. de Manzanas",
+                "1.000 g. de Pieza de Fruta al gusto"
+            ]
+        },
+        {
+            "name": "Frutos Secos",
+            "items": [
+                "20 g. de Almendras",
+                "40 g. de Avellanas",
+                "80 g. de Nueces sin cáscara",
+                "20 g. de Pistacho Tostado Sin Sal Hacendado"
+            ]
+        },
+        {
+            "name": "Harinas",
+            "items": [
+                "280 g. de Fajitas Hacendado"
+            ]
+        },
+        {
+            "name": "Huevos y Derivados",
+            "items": [
+                "440 g. de Huevo",
+                "40 g. de Huevo duro"
+            ]
+        },
+        {
+            "name": "Índice Glucemico Bajo",
+            "items": [
+                "10 g. de Guisantes frescos o congelados"
+            ]
+        },
+        {
+            "name": "Lácteos y derivados descremados",
+            "items": [
+                "60 g. de Queso de Burgos 0% Hacendado",
+                "50 g. de Queso Havarti light hacendado",
+                "250 g. de Yogurt Natural 0% Cremoso Hacendado"
+            ]
+        },
+        {
+            "name": "Lácteos y derivados enteros",
+            "items": [
+                "2,6 kg. de Leche entera",
+                "1.000 g. de Leche Entera Hacendado",
+                "1,4 kg. de Yogur Natural entero"
+            ]
+        },
+        {
+            "name": "Legumbres",
+            "items": [
+                "80 g. de Garbanzo cocido Hacendado",
+                "30 g. de Judías verdes"
+            ]
+        },
+        {
+            "name": "Pan y Complementos",
+            "items": [
+                "70 g. de Pan",
+                "290 g. de Pan Baguette",
+                "160 g. de Pan de centeno hacendado",
+                "440 g. de Pan Integral Hacendado"
+            ]
+        },
+        {
+            "name": "Pastas Alimentarias",
+            "items": [
+                "60 g. de Espagueti",
+                "200 g. de Pasta Integral Hacendado"
+            ]
+        },
+        {
+            "name": "Pescados Azules",
+            "items": [
+                "400 g. de Salmón"
+            ]
+        },
+        {
+            "name": "Pescados Blancos",
+            "items": [
+                "190 g. de Dorada"
+            ]
+        },
+        {
+            "name": "Quesos",
+            "items": [
+                "100 g. de Perlas Mozzarela Hacendado"
+            ]
+        },
+        {
+            "name": "Salsas y condimentos",
+            "items": [
+                "100 g. de Tomate tamizado hacendado",
+                "10 g. de Vinagre de manzana"
+            ]
+        },
+        {
+            "name": "Verduras y hortalizas",
+            "items": [
+                "100 g. de Brócoli",
+                "120 g. de Calabacín",
+                "200 g. de Caldo de Pollo Bajo en Sal Hacendado",
+                "360 g. de Cebolla Troceada Hacendado",
+                "390 g. de Cebollas",
+                "130 g. de Champiñones",
+                "30 g. de Lechuga",
+                "150 g. de Patata asada",
+                "100 g. de Patatas",
+                "180 g. de Pepinos",
+                "30 g. de Pimiento",
+                "450 g. de Pimiento Rojo y Verde Hacendado",
+                "40 g. de Puerros",
+                "1,2 kg. de Tomate Natural",
+                "130 g. de Tomate para Untar con AOVE Hacendado",
+                "150 g. de Tomates Cherry",
+                "170 g. de Zanahorias"
+            ]
+        }
+    ]
+}
