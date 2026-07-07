@@ -140,41 +140,86 @@ class MainActivity : AppCompatActivity() {
         // Desayuno
         val desayuno = day.meals["Desayuno"]
         if (desayuno != null) {
+            cardDesayuno.visibility = View.VISIBLE
             txtDesayunoDishes.text = desayuno.dishes.joinToString(" + ") { it.name }
-            txtDesayunoKcal.text = "${desayuno.getKcalSummary()} kcal"
+            val kcal = desayuno.getKcalSummary()
+            if (kcal > 0) {
+                txtDesayunoKcal.visibility = View.VISIBLE
+                txtDesayunoKcal.text = "$kcal kcal"
+            } else {
+                txtDesayunoKcal.visibility = View.GONE
+            }
             cardDesayuno.setOnClickListener { showMealDetails("Desayuno", desayuno) }
+        } else {
+            cardDesayuno.visibility = View.GONE
         }
 
         // Media mañana
         val mediaManana = day.meals["Media mañana"]
         if (mediaManana != null) {
+            cardMediaManana.visibility = View.VISIBLE
             txtMediaMananaDishes.text = mediaManana.dishes.joinToString(" + ") { it.name }
-            txtMediaMananaKcal.text = "${mediaManana.getKcalSummary()} kcal"
+            val kcal = mediaManana.getKcalSummary()
+            if (kcal > 0) {
+                txtMediaMananaKcal.visibility = View.VISIBLE
+                txtMediaMananaKcal.text = "$kcal kcal"
+            } else {
+                txtMediaMananaKcal.visibility = View.GONE
+            }
             cardMediaManana.setOnClickListener { showMealDetails("Media mañana", mediaManana) }
+        } else {
+            cardMediaManana.visibility = View.GONE
         }
 
         // Almuerzo
         val almuerzo = day.meals["Almuerzo"]
         if (almuerzo != null) {
+            cardAlmuerzo.visibility = View.VISIBLE
             txtAlmuerzoDishes.text = almuerzo.dishes.joinToString(" + ") { it.name }
-            txtAlmuerzoKcal.text = "${almuerzo.getKcalSummary()} kcal"
+            val kcal = almuerzo.getKcalSummary()
+            if (kcal > 0) {
+                txtAlmuerzoKcal.visibility = View.VISIBLE
+                txtAlmuerzoKcal.text = "$kcal kcal"
+            } else {
+                txtAlmuerzoKcal.visibility = View.GONE
+            }
             cardAlmuerzo.setOnClickListener { showMealDetails("Almuerzo", almuerzo) }
+        } else {
+            cardAlmuerzo.visibility = View.GONE
         }
 
         // Merienda
         val merienda = day.meals["Merienda"]
         if (merienda != null) {
+            cardMerienda.visibility = View.VISIBLE
             txtMeriendaDishes.text = merienda.dishes.joinToString(" + ") { it.name }
-            txtMeriendaKcal.text = "${merienda.getKcalSummary()} kcal"
+            val kcal = merienda.getKcalSummary()
+            if (kcal > 0) {
+                txtMeriendaKcal.visibility = View.VISIBLE
+                txtMeriendaKcal.text = "$kcal kcal"
+            } else {
+                txtMeriendaKcal.visibility = View.GONE
+            }
             cardMerienda.setOnClickListener { showMealDetails("Merienda", merienda) }
+        } else {
+            cardMerienda.visibility = View.GONE
         }
 
         // Cena
         val cena = day.meals["Cena"]
         if (cena != null) {
+            cardCena.visibility = View.VISIBLE
             txtCenaDishes.text = cena.dishes.joinToString(" + ") { it.name }
-            txtCenaKcal.text = "${cena.getKcalSummary()} kcal"
+            val kcal = cena.getKcalSummary()
+            if (kcal > 0) {
+                txtCenaKcal.visibility = View.VISIBLE
+                txtCenaKcal.text = "$kcal kcal"
+            } else {
+                txtCenaKcal.visibility = View.GONE
+            }
             cardCena.setOnClickListener { showMealDetails("Cena", cena) }
+        } else {
+            cardCena.visibility = View.GONE
         }
     }
 
@@ -205,7 +250,13 @@ class MainActivity : AppCompatActivity() {
             "Cena" to "🥗 Cena"
         )
         txtTitle.text = mealIcons[mealName] ?: mealName
-        txtKcal.text = "${meal.getKcalSummary()} kcal"
+        val kcal = meal.getKcalSummary()
+        if (kcal > 0) {
+            txtKcal.visibility = View.VISIBLE
+            txtKcal.text = "$kcal kcal"
+        } else {
+            txtKcal.visibility = View.GONE
+        }
 
         // Set macros if present
         if (meal.getProteinSummary().isNotEmpty()) {

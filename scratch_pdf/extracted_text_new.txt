@@ -1,0 +1,655 @@
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 1 Día 2 Día 3 Día 4 Día 5 Día 6 Día 7
+Página 1	Planning
+
+-- 1 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Semana 1
+> Ingredientes Importados
+60 g. de Cacao soluble	¨
+330 g. de Cereales rellenos de
+Leche Hacendado
+¨
+80 g. de Queso Fresco de
+Burgos Hacendado 0%
+¨
+Aceites y Grasas
+20 g. de Aceite de oliva	¨
+Arroces y Sémolas
+30 g. de Arroz	¨
+70 g. de Vasito arroz integral
+Brillante
+¨
+Bebidas
+200 g. de Bebida de coco	¨
+Bebidas sin alcohol
+110 g. de Agua	¨
+Buey / ternera y derivados
+250 g. de Ternera - lomo	¨
+200 g. de Ternera - magra	¨
+Carnes Blancas
+270 g. de Pavo, pechuga	¨
+150 g. de Pollo - muslo	¨
+650 g. de Pollo - pechuga	¨
+140 g. de Tiras de Pollo Asado
+al horno Hacendado
+¨
+Cerdo y derivados
+200 g. de Secreto Ibérico
+Hacendado
+¨
+Cereales
+10 g. de Copos de Avena
+Hacendado
+¨
+350 g. de Copos de Maíz Nicoli
+Hacendado
+¨
+50 g. de Corn Flakes Hacendado	¨
+10 g. de Uvas pasas	¨
+140 g. de Weetabix cereales	¨
+Embutidos
+40 g. de Jamón serrano	¨
+Especies, Aromas y Preparados
+10 g. de Ajo	¨
+Fruta Fresca
+160 g. de Aguacate	¨
+300 g. de Fresa	¨
+30 g. de Limón	¨
+60 g. de Manzanas	¨
+1.000 g. de Pieza de Fruta al
+gusto
+¨
+Frutos Secos
+20 g. de Almendras	¨
+40 g. de Avellanas	¨
+80 g. de Nueces sin cáscara	¨
+20 g. de Pistacho Tostado Sin
+Sal Hacendado
+¨
+Huevos y Derivados
+460 g. de Huevo	¨
+140 g. de Huevo duro	¨
+Índice Glucemico Bajo
+10 g. de Guisantes frescos o
+congelados
+¨
+Lácteos y derivados descremados
+250 g. de Yogurt Natural 0%
+Cremoso Hacendado
+¨
+Lácteos y derivados enteros
+2,6 kg. de Leche entera	¨
+1.000 g. de Leche Entera
+Hacendado
+¨
+1,4 kg. de Yogur Natural entero	¨
+Legumbres
+100 g. de Garbanzos	¨
+30 g. de Judías verdes	¨
+Otros
+30 g. de Cuscus Hacendado	¨
+Pan y Complementos
+40 g. de Pan	¨
+90 g. de Pan Baguette	¨
+Pastas Alimentarias
+60 g. de Espagueti	¨
+130 g. de Pasta de Harina de
+Lenteja
+¨
+100 g. de Pasta Hacendado	¨
+100 g. de Pasta Integral
+Hacendado
+¨
+Pescados Azules
+50 g. de Atún Natural
+Hacendado
+¨
+80 g. de Lomo de Melva en
+AOVE Hacendado
+¨
+400 g. de Salmón	¨
+Quesos
+230 g. de Perlas Mozzarela
+Hacendado
+¨
+Quesos Grasos
+50 g. de Queso Feta Hacendado	¨
+Salsas y condimentos
+10 g. de Vinagre de manzana	¨
+Verduras y hortalizas
+70 g. de Calabacín	¨
+420 g. de Cebollas	¨
+100 g. de Dúo rúcula y
+canónigos Hacendado
+¨
+110 g. de Lechuga	¨
+550 g. de Patata asada	¨
+80 g. de Patatas	¨
+90 g. de Pepinos	¨
+220 g. de Pimiento	¨
+30 g. de Rábanos	¨
+1,1 kg. de Tomate Natural	¨
+350 g. de Tomates Cherry	¨
+80 g. de Zanahorias	¨
+Página 2	Lista de la Compra
+
+-- 2 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 1 Recetas Alternativas
+Desayuno Zumo de albaricoque y pera, Leche entera con
+azúcar, Zumo de fruta con miel.
+Cereales rellenos de Leche con
+Copos de Maiz
+Café con leche entera, Leche descremada con
+cacao, Leche descremada.
+Leche entera con cacao
+Almuerzo Potaje de alubias blancas, Ensalada de alubias
+con atún y huevo, Arroz Chaufa.
+Ensalada de Pasta de Lentejas con
+Mozzarella
+Filete de ternera a la plancha, Carpaccio con
+parmesano y limón, Chuleta de buey a la
+plancha.
+Secreto iberico Hacendado
+Carpaccio de mango y aguacate, Tarta Queso
+Burgos Natural, Yogur Natural Desnatado.
+Yogur con nueces
+Merienda Crackers y jamón serrano, Pan y sobrasada,
+Tostadas int. Con jamón york.
+Cereales rellenos de Leche con
+Copos de Maiz
+Yogur Natural Entero, Yogur Bio Natural,
+Yogur Natural Desnatado.
+Leche entera con cacao
+Cena Crema de pimientos, Ensalada variada de apio,
+Ensalada de pimientos y tomates asados.
+Gazpacho andaluz
+Solomillo de buey a la plancha, Chuleta de
+cerdo a la parrilla, Filete de buey a la plancha.
+Salmón a la plancha
+Zumo de limón, Sandía, Fresas con zumo de
+limón.
+Pieza de Fruta al gusto
+Página 3	Recetas Alternativas
+
+-- 3 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 2 Recetas Alternativas
+Desayuno Zumo de albaricoque y pera, Leche entera con
+azúcar, Zumo de fruta con miel.
+Cereales rellenos de Leche con
+Copos de Maiz
+Café con leche entera, Leche descremada con
+cacao, Leche descremada.
+Leche entera con cacao
+Almuerzo Arroz Chaufa, Pasta de Quinoa con Bacalao,
+Guisantes hervidos.
+Contramuslos de Pollo al Horno
+con Patatas
+Lenguado con zanahoria, Carne de cerdo
+guisada, Albóndigas de pollo con hierbas.
+Ensalada mixta tipo I
+Yogur Natural Desnatado, Yogur Bio Natural,
+Carpaccio de mango y aguacate.
+Yogur con avellanas
+Merienda Tostadas int. con miel, Tostadas int. con
+mermelada, Brioche.
+Weetabix cereales
+Yogur Natural Entero, Yogur Bio Natural,
+Yogur Natural Desnatado.
+Leche entera con cacao
+Cena Canelones de champiñones y espárragos, Crema
+de espinacas, Crema de apio y coliflor.
+Salmorejo cordobés
+Roast beef solo, Chuleta de cerdo a la parrilla,
+Atún fresco plancha.
+Entrecote a la plancha
+Carpaccio de mango y aguacate, Tarta Queso
+Burgos Natural, Yogur Natural Desnatado.
+Yogur con nueces
+Página 4	Recetas Alternativas
+
+-- 4 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 3 Recetas Alternativas
+Desayuno Zumo de albaricoque y pera, Leche entera con
+azúcar, Zumo de fruta con miel.
+Cereales rellenos de Leche con
+Copos de Maiz
+Café con leche entera, Leche descremada con
+cacao, Leche descremada.
+Leche entera con cacao
+Almuerzo Carpaccio de piña con pollo, Ensalada de pollo
+y naranja, Ensalada de pollo y huevo.
+Ensalada de Patatas con Hortalizas
+y pollo
+Yogur Natural Desnatado, Yogur Bio Natural,
+Cuajada.
+Yogur con almendras
+Merienda Zumo de fruta, Mandarinas, Piña.	Yogurt con fresas y cereales
+Cena Paella de pollo, Habas tiernas con acelgas, Arroz
+Chaufa.
+Ensalada de arroz integral con
+manzana y pavo
+Roast beef solo, Ternera a la parrilla, Entrecote
+a la plancha.
+Carne de ternera picada
+Yogur Natural Desnatado, Yogur Bio Natural,
+Carpaccio de mango y aguacate.
+Yogur con avellanas
+Página 5	Recetas Alternativas
+
+-- 5 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 4 Recetas Alternativas
+Desayuno Zumo de albaricoque y pera, Leche entera con
+azúcar, Zumo de fruta con miel.
+Cereales rellenos de Leche con
+Copos de Maiz
+Café con leche entera, Leche descremada con
+cacao, Leche descremada.
+Leche entera con cacao
+Almuerzo Empedrado de Garbanzos, Garbanzos, espinacas
+y huevo duro, Tortellini con champiñones.
+Espaguetis Con Guacamole y
+Pistachos
+Pollo al limón, Merluza molinera, Parrillada de
+pescado.
+Pavo plancha
+Zumo de limón, Sandía, Fresas con zumo de
+limón.
+Pieza de Fruta al gusto
+Merienda Yogur de frutas, Plátanos, Plátano maduro.	Mezcla cereales avena y copos de
+maiz
+Yogur Natural Entero, Yogur Bio Natural,
+Yogur Natural Desnatado.
+Leche entera con cacao
+Cena Ensalada de pollo y naranja, Picadillo de patatas
+con huevo y pollo picado, Brócoli con jamón.
+Tabulé de Verduras
+Solomillo de buey a la plancha, Chuleta de
+cerdo a la parrilla, Filete de buey a la plancha.
+Salmón a la plancha
+Zumo de limón, Sandía, Fresas con zumo de
+limón.
+Pieza de Fruta al gusto
+Página 6	Recetas Alternativas
+
+-- 6 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 5 Recetas Alternativas
+Desayuno Zumo de albaricoque y pera, Leche entera con
+azúcar, Zumo de fruta con miel.
+Cereales rellenos de Leche con
+Copos de Maiz
+Café con leche entera, Leche descremada con
+cacao, Leche descremada.
+Leche entera con cacao
+Almuerzo Garbanzos, espinacas y huevo duro, Quiche de
+espinacas y queso, Ensalada de alubias con atún
+y huevo.
+Garbanzos de Bote salteados con
+Huevo y Cebolla con Aguacate
+Carpaccio de mango y aguacate, Tarta Queso
+Burgos Natural, Yogur Natural Desnatado.
+Yogur con nueces
+Merienda Crackers y jamón serrano, Pan y sobrasada,
+Tostadas int. Con jamón york.
+Cereales rellenos de Leche con
+Copos de Maiz
+Yogur Natural Entero, Yogur Bio Natural,
+Yogur Natural Desnatado.
+Leche entera con cacao
+Cena Canelones de champiñones y espárragos, Crema
+de espinacas, Crema de apio y coliflor.
+Salmorejo cordobés
+Dorada al limón, Escalopas de cerdo, Merluza al
+perejil.
+Huevo a la plancha
+Carpaccio de mango y aguacate, Tarta Queso
+Burgos Natural, Yogur Natural Desnatado.
+Yogur con nueces
+Página 7	Recetas Alternativas
+
+-- 7 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 6 Recetas Alternativas
+Desayuno Zumo de albaricoque y pera, Leche entera con
+azúcar, Leche entera con cacao.
+Bocadillo de tortilla francesa
+Café con leche entera, Leche entera, Leche
+entera con miel.
+Bebida de coco
+Almuerzo Paella de pollo, Alcachofas rebozadas, Arroz
+Chaufa.
+Pasta integral con tiras de
+pollo,queso feta y cherrys
+Yogur Natural Desnatado, Yogur Bio Natural,
+Carpaccio de mango y aguacate.
+Yogur con avellanas
+Merienda Tostadas int. con miel, Tostadas int. con
+mermelada, Brioche.
+Weetabix cereales
+Yogur Natural Entero, Yogur Bio Natural,
+Yogur Natural Desnatado.
+Leche entera con cacao
+Cena Gazpachuelo, Quiche de espinacas y queso,
+Arroz Chaufa.
+Ensalada de Pasta con Mozarella,
+Huevo Duro y Cherrys
+Solomillo de buey a la plancha, Salmón a la
+plancha, Merluza a la plancha.
+Pollo sencillo
+Yogur Natural Desnatado, Yogur Bio Natural,
+Carpaccio de mango y aguacate.
+Yogur con avellanas
+Página 8	Recetas Alternativas
+
+-- 8 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 7 Recetas Alternativas
+Desayuno Zumo de albaricoque y pera, Leche entera con
+azúcar, Zumo de fruta con miel.
+Cereales rellenos de Leche con
+Copos de Maiz
+Café con leche entera, Leche descremada con
+cacao, Leche descremada.
+Leche entera con cacao
+Almuerzo Guisantes hervidos, Alcachofas y patatas
+salteadas con jamón, Guisantes estofados.
+Paella de pollo
+Tortilla de champiñones, Chuleta de buey con
+tomate, Tortilla de espinacas.
+Ensalada de Canónigos, Melva,
+Cherrys y Perlas de Mozarella
+Yogur Natural Desnatado, Yogur Bio Natural,
+Cuajada.
+Yogur con almendras
+Merienda Zumo de fruta, Mandarinas, Piña.	Yogurt con fresas y cereales
+Cena Verduras rehogadas con jamón, Picadillo de
+patatas con atún, huevo y aceitunas, Guisantes a
+la primavera.
+Pisto con Patatas al Horno y
+Huevos
+Lenguado con zanahoria, Pollo con sanfaina,
+Pavo a la naranja.
+Gazpacho andaluz
+Zumo de limón, Sandía, Fresas con zumo de
+limón.
+Pieza de Fruta al gusto
+Página 9	Recetas Alternativas
+
+-- 9 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 1
+Desayuno
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 150 g. de Leche Entera Hacendado, 50 g. de Copos de Maíz
+Nicoli Hacendado, 50 g. de Cereales rellenos de Leche Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Almuerzo
+Ensalada de Pasta de Lentejas con Mozzarella
+Secreto iberico Hacendado
+Ingredientes: 200 g. de Secreto Ibérico Hacendado.
+Yogur con nueces
+Ingredientes: 130 g. de Yogur Natural entero, 20 g. de Nueces sin cáscara.
+Página 10	Menú Distribuido
+
+-- 10 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Merienda
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 50 g. de Leche Entera Hacendado, 20 g. de Copos de Maíz
+Nicoli Hacendado, 20 g. de Cereales rellenos de Leche Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Cena
+Gazpacho andaluz
+Salmón a la plancha
+Pieza de Fruta al gusto
+Ingredientes: 250 g. de Pieza de Fruta al gusto.
+Página 11	Menú Distribuido
+
+-- 11 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 2
+Desayuno
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 150 g. de Leche Entera Hacendado, 50 g. de Copos de Maíz
+Nicoli Hacendado, 50 g. de Cereales rellenos de Leche Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Almuerzo
+Contramuslos de Pollo al Horno con Patatas
+Ensalada mixta tipo I
+Ingredientes: 90 g. de Tomate Natural, 40 g. de Pimiento, 40 g. de
+Lechuga, 30 g. de Rábanos, 3 g. de Aceite de oliva.
+Yogur con avellanas
+Ingredientes: 140 g. de Yogur Natural entero, 10 g. de Avellanas.
+Página 12	Menú Distribuido
+
+-- 12 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Merienda
+Weetabix cereales
+Ingredientes: 70 g. de Weetabix cereales.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Cena
+Salmorejo cordobés
+Entrecote a la plancha
+Yogur con nueces
+Ingredientes: 130 g. de Yogur Natural entero, 20 g. de Nueces sin cáscara.
+Página 13	Menú Distribuido
+
+-- 13 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 3
+Desayuno
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 150 g. de Leche Entera Hacendado, 50 g. de Copos de Maíz
+Nicoli Hacendado, 50 g. de Cereales rellenos de Leche Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Almuerzo
+Ensalada de Patatas con Hortalizas y pollo
+Yogur con almendras
+Ingredientes: 140 g. de Yogur Natural entero, 10 g. de Almendras.
+Merienda
+Yogurt con fresas y cereales
+Ingredientes: 150 g. de Fresa, 120 g. de Yogurt Natural 0% Cremoso
+Hacendado, 20 g. de Corn Flakes Hacendado.
+Página 14	Menú Distribuido
+
+-- 14 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Cena
+Ensalada de arroz integral con manzana y pavo
+Carne de ternera picada
+Ingredientes: 200 g. de Ternera - magra.
+Yogur con avellanas
+Ingredientes: 140 g. de Yogur Natural entero, 10 g. de Avellanas.
+Página 15	Menú Distribuido
+
+-- 15 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 4
+Desayuno
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 150 g. de Leche Entera Hacendado, 50 g. de Copos de Maíz
+Nicoli Hacendado, 50 g. de Cereales rellenos de Leche Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Almuerzo
+Espaguetis Con Guacamole y Pistachos
+Pavo plancha
+Página 16	Menú Distribuido
+
+-- 16 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Pieza de Fruta al gusto
+Ingredientes: 250 g. de Pieza de Fruta al gusto.
+Merienda
+Mezcla cereales avena y copos de maiz
+Ingredientes: 70 g. de Leche entera, 10 g. de Copos de Avena Hacendado,
+10 g. de Copos de Maíz Nicoli Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Cena
+Tabulé de Verduras
+Salmón a la plancha
+Página 17	Menú Distribuido
+
+-- 17 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Pieza de Fruta al gusto
+Ingredientes: 250 g. de Pieza de Fruta al gusto.
+Página 18	Menú Distribuido
+
+-- 18 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 5
+Desayuno
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 150 g. de Leche Entera Hacendado, 50 g. de Copos de Maíz
+Nicoli Hacendado, 50 g. de Cereales rellenos de Leche Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Almuerzo
+Garbanzos de Bote salteados con Huevo y Cebolla con Aguacate
+Yogur con nueces
+Ingredientes: 130 g. de Yogur Natural entero, 20 g. de Nueces sin cáscara.
+Merienda
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 50 g. de Leche Entera Hacendado, 20 g. de Copos de Maíz
+Nicoli Hacendado, 20 g. de Cereales rellenos de Leche Hacendado.
+Página 19	Menú Distribuido
+
+-- 19 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Cena
+Salmorejo cordobés
+Huevo a la plancha
+Ingredientes: 160 g. de Huevo.
+Yogur con nueces
+Ingredientes: 130 g. de Yogur Natural entero, 20 g. de Nueces sin cáscara.
+Página 20	Menú Distribuido
+
+-- 20 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 6
+Desayuno
+Bocadillo de tortilla francesa
+Bebida de coco
+Ingredientes: 200 g. de Bebida de coco.
+Almuerzo
+Pasta integral con tiras de pollo,queso feta y cherrys
+Ingredientes: 150 g. de Tomate Natural, 140 g. de Tiras de Pollo Asado al
+horno Hacendado, 100 g. de Tomates Cherry, 100 g. de Pasta Integral
+Hacendado, 50 g. de Queso Feta Hacendado.
+Yogur con avellanas
+Ingredientes: 140 g. de Yogur Natural entero, 10 g. de Avellanas.
+Merienda
+Weetabix cereales
+Ingredientes: 70 g. de Weetabix cereales.
+Página 21	Menú Distribuido
+
+-- 21 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Cena
+Ensalada de Pasta con Mozarella, Huevo Duro y Cherrys
+Ingredientes: 150 g. de Tomates Cherry, 100 g. de Pasta Hacendado, 100
+g. de Perlas Mozzarela Hacendado, 60 g. de Huevo duro, 10 g. de Vinagre
+de manzana.
+Pollo sencillo
+Yogur con avellanas
+Ingredientes: 140 g. de Yogur Natural entero, 10 g. de Avellanas.
+Página 22	Menú Distribuido
+
+-- 22 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Día 7
+Desayuno
+Cereales rellenos de Leche con Copos de Maiz
+Ingredientes: 150 g. de Leche Entera Hacendado, 50 g. de Copos de Maíz
+Nicoli Hacendado, 50 g. de Cereales rellenos de Leche Hacendado.
+Leche entera con cacao
+Ingredientes: 220 g. de Leche entera, 5 g. de Cacao soluble.
+Almuerzo
+Paella de pollo
+Ensalada de Canónigos, Melva, Cherrys y Perlas de Mozarella
+Ingredientes: 100 g. de Dúo rúcula y canónigos Hacendado, 80 g. de
+Lomo de Melva en AOVE Hacendado, 60 g. de Tomates Cherry, 60 g. de
+Huevo duro, 50 g. de Perlas Mozzarela Hacendado.
+Yogur con almendras
+Ingredientes: 140 g. de Yogur Natural entero, 10 g. de Almendras.
+Página 23	Menú Distribuido
+
+-- 23 of 24 --
+
+Informe de Dieta Personalizado
+RE 2024 - SAMUEL GARCÍA LÓPEZ
+Merienda
+Yogurt con fresas y cereales
+Ingredientes: 150 g. de Fresa, 120 g. de Yogurt Natural 0% Cremoso
+Hacendado, 20 g. de Corn Flakes Hacendado.
+Cena
+Pisto con Patatas al Horno y Huevos
+Gazpacho andaluz
+Pieza de Fruta al gusto
+Ingredientes: 250 g. de Pieza de Fruta al gusto.
+Página 24	Menú Distribuido
+
+-- 24 of 24 --
+

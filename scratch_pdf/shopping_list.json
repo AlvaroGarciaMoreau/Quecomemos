@@ -1,0 +1,199 @@
+{
+    "categories": [
+        {
+            "name": "Ingredientes Importados",
+            "items": [
+                "60 g. de Cacao soluble",
+                "330 g. de Cereales rellenos de Leche Hacendado",
+                "80 g. de Queso Fresco de Burgos Hacendado 0%"
+            ]
+        },
+        {
+            "name": "Aceites y Grasas",
+            "items": [
+                "20 g. de Aceite de oliva"
+            ]
+        },
+        {
+            "name": "Arroces y Sémolas",
+            "items": [
+                "30 g. de Arroz",
+                "70 g. de Vasito arroz integral Brillante"
+            ]
+        },
+        {
+            "name": "Bebidas",
+            "items": [
+                "200 g. de Bebida de coco"
+            ]
+        },
+        {
+            "name": "Bebidas sin alcohol",
+            "items": [
+                "110 g. de Agua"
+            ]
+        },
+        {
+            "name": "Buey / ternera y derivados",
+            "items": [
+                "250 g. de Ternera - lomo",
+                "200 g. de Ternera - magra"
+            ]
+        },
+        {
+            "name": "Carnes Blancas",
+            "items": [
+                "270 g. de Pavo, pechuga",
+                "150 g. de Pollo - muslo",
+                "650 g. de Pollo - pechuga",
+                "140 g. de Tiras de Pollo Asado al horno Hacendado"
+            ]
+        },
+        {
+            "name": "Cerdo y derivados",
+            "items": [
+                "200 g. de Secreto Ibérico Hacendado"
+            ]
+        },
+        {
+            "name": "Cereales",
+            "items": [
+                "10 g. de Copos de Avena Hacendado",
+                "350 g. de Copos de Maíz Nicoli Hacendado",
+                "50 g. de Corn Flakes Hacendado",
+                "10 g. de Uvas pasas",
+                "140 g. de Weetabix cereales"
+            ]
+        },
+        {
+            "name": "Embutidos",
+            "items": [
+                "40 g. de Jamón serrano"
+            ]
+        },
+        {
+            "name": "Especies, Aromas y Preparados",
+            "items": [
+                "10 g. de Ajo"
+            ]
+        },
+        {
+            "name": "Fruta Fresca",
+            "items": [
+                "160 g. de Aguacate",
+                "300 g. de Fresa",
+                "30 g. de Limón",
+                "60 g. de Manzanas",
+                "1.000 g. de Pieza de Fruta al gusto"
+            ]
+        },
+        {
+            "name": "Frutos Secos",
+            "items": [
+                "20 g. de Almendras",
+                "40 g. de Avellanas",
+                "80 g. de Nueces sin cáscara",
+                "20 g. de Pistacho Tostado Sin Sal Hacendado"
+            ]
+        },
+        {
+            "name": "Huevos y Derivados",
+            "items": [
+                "460 g. de Huevo",
+                "140 g. de Huevo duro"
+            ]
+        },
+        {
+            "name": "Índice Glucemico Bajo",
+            "items": [
+                "10 g. de Guisantes frescos o congelados"
+            ]
+        },
+        {
+            "name": "Lácteos y derivados descremados",
+            "items": [
+                "250 g. de Yogurt Natural 0% Cremoso Hacendado"
+            ]
+        },
+        {
+            "name": "Lácteos y derivados enteros",
+            "items": [
+                "2,6 kg. de Leche entera",
+                "1.000 g. de Leche Entera Hacendado",
+                "1,4 kg. de Yogur Natural entero"
+            ]
+        },
+        {
+            "name": "Legumbres",
+            "items": [
+                "100 g. de Garbanzos",
+                "30 g. de Judías verdes"
+            ]
+        },
+        {
+            "name": "Otros",
+            "items": [
+                "30 g. de Cuscus Hacendado"
+            ]
+        },
+        {
+            "name": "Pan y Complementos",
+            "items": [
+                "40 g. de Pan",
+                "90 g. de Pan Baguette"
+            ]
+        },
+        {
+            "name": "Pastas Alimentarias",
+            "items": [
+                "60 g. de Espagueti",
+                "130 g. de Pasta de Harina de Lenteja",
+                "100 g. de Pasta Hacendado",
+                "100 g. de Pasta Integral Hacendado"
+            ]
+        },
+        {
+            "name": "Pescados Azules",
+            "items": [
+                "50 g. de Atún Natural Hacendado",
+                "80 g. de Lomo de Melva en AOVE Hacendado",
+                "400 g. de Salmón"
+            ]
+        },
+        {
+            "name": "Quesos",
+            "items": [
+                "230 g. de Perlas Mozzarela Hacendado"
+            ]
+        },
+        {
+            "name": "Quesos Grasos",
+            "items": [
+                "50 g. de Queso Feta Hacendado"
+            ]
+        },
+        {
+            "name": "Salsas y condimentos",
+            "items": [
+                "10 g. de Vinagre de manzana"
+            ]
+        },
+        {
+            "name": "Verduras y hortalizas",
+            "items": [
+                "70 g. de Calabacín",
+                "420 g. de Cebollas",
+                "100 g. de Dúo rúcula y canónigos Hacendado",
+                "110 g. de Lechuga",
+                "550 g. de Patata asada",
+                "80 g. de Patatas",
+                "90 g. de Pepinos",
+                "220 g. de Pimiento",
+                "30 g. de Rábanos",
+                "1,1 kg. de Tomate Natural",
+                "350 g. de Tomates Cherry",
+                "80 g. de Zanahorias"
+            ]
+        }
+    ]
+}
